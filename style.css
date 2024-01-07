@@ -32,6 +32,10 @@
   margin: 0 auto 0;
 }
 
+.new-task {
+  padding: 16px 0;
+}
+
 .task-width {
   width: 56%;
   display: inline-block;
